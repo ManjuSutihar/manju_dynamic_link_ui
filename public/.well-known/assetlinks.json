@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vassar.cropwise",
+      "sha256_cert_fingerprints": [
+        "E0:9A:D0:FB:8A:D5:ED:DF:AC:89:3E:00:6A:F8:F2:99:C6:9A:D6:90:2B:0A:94:B5:3F:3C:14:8E:76:B9:CE:7B"
+      ]
+    }
+  }
+]
